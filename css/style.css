@@ -25,7 +25,7 @@ a {
 
 .containerclass {
     margin-left: 10px;
-    width: 80%;
+    width: 55%;
 }
 
 ul {
@@ -34,7 +34,7 @@ ul {
 }
 
 table {
-    border: none;
+    margin-top: 30px;
     border-collapse: collapse;
     text-align: left;
 }
@@ -57,26 +57,24 @@ table {
 
 #page-title-container{
     /* margin-left: 10px; */
-    width: 70%;
     padding-top: 25px;
     margin-bottom: 25px;
 }
 
 #page-title {
-    font-size: 50px;
-    line-height: 50px;
-    margin-bottom: 10px;
+    font-size: 40px;
+    line-height: 35px;
+    margin-bottom: 5px;
 }
 
 #subtitle {
     padding: 1px;
     color: grey;
-    font-size: 22px;
-    font: weight 550px;;
+    font-size: 20px;
 }
 
 #subtitle-date {
-    font-size: 15px;
+    font-size: 12px;
     color: grey;
 }
 
@@ -85,8 +83,8 @@ table {
 }
 
 #header-images {
-    width: 750px;
-    height: 550px;
+    width: 500px;
+    height: 400px;
 }
 
 #captions {
@@ -94,7 +92,7 @@ table {
 }
 
 .img-caption {
-    font-size: 15px;
+    font-size: 12px;
 }
 
 /* main */
@@ -121,7 +119,16 @@ thead {
     padding-bottom: 15px;
 }
 
+.leftnright-tdth-padding {
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
 .td-width {
     width: 500px;
 }
+
+
+
 /* footer */
+
