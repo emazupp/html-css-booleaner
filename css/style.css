@@ -11,18 +11,26 @@ figure{
 
 #upper-bar{
     background-image: url('..//img/pattern.png');
+    background-repeat: repeat-x;
+    background-size: 630px 190px;
     background-color: lightblue;
-    height: 170px;
+    height: 100px;
 }
 
 #theboolean-logo{
-    width: 20%;
-    height: 100px;
-    margin-top: 65px;
+    width: 15%;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 10px;
 }
 
-#tim-images {
+#tim-images-container {
     margin-left: 10px;
+}
+
+#tim-images{
+    width: 900px;
+    height: 600px;
 }
 /* main */
 
