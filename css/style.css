@@ -65,15 +65,27 @@ a {
     color: grey;
 }
 
-#tim-images-container {
+#header-images-container {
     margin-left: 10px;
 }
 
-#tim-images {
+#header-images {
     width: 800px;
-    height: 500px;
+    height: 550px;
+}
+
+#captions {
+    margin-left: 10px;
+}
+
+.img-caption {
+    font-size: 15px;
 }
 
 /* main */
+
+.main-container {
+    margin-top: 25px;
+}
 
 /* footer */
