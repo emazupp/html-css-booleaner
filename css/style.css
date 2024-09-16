@@ -32,6 +32,12 @@ ul {
     padding-left: 20px;
     margin: 0;
 }
+
+table {
+    border: none;
+    border-collapse: collapse;
+    text-align: left;
+}
 /* header */
 
 #upper-bar {
@@ -99,5 +105,23 @@ ul {
 
 .highlighted-text {
     background-color: yellow;
+}
+
+thead {
+    color: white;
+    background-color: #51a0fd;
+}
+
+.colored-row {
+    background-color: aqua;
+}
+
+.td-padding {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.td-width {
+    width: 500px;
 }
 /* footer */
