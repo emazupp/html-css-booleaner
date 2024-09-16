@@ -78,17 +78,10 @@ table {
     color: grey;
 }
 
-#header-images-container {
-    /* margin-left: 10px; */
-}
 
 #header-images {
     width: 500px;
     height: 370px;
-}
-
-#captions {
-    /* margin-left: 10px; */
 }
 
 .img-caption {
@@ -164,5 +157,4 @@ thead {
     color: white;
     font-weight: bold;
     font-size: 17px;
-
 }
