@@ -1,5 +1,8 @@
 /* reset */
-
+body {
+    margin: 0;
+    padding: 0;
+}
 /* header */
 
 #upper-bar{
