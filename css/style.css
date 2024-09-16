@@ -3,18 +3,27 @@ body {
     margin: 0;
     padding: 0;
 }
+
+figure{
+    margin: 0;
+}
 /* header */
 
 #upper-bar{
     background-image: url('..//img/pattern.png');
     background-color: lightblue;
+    height: 170px;
 }
 
 #theboolean-logo{
     width: 20%;
     height: 100px;
+    margin-top: 65px;
 }
 
+#tim-images {
+    margin-left: 10px;
+}
 /* main */
 
 /* footer */
