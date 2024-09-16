@@ -1,9 +1,15 @@
 /* reset */
 
 /* header */
+
 #upper-bar{
     background-image: url('..//img/pattern.png');
-    background-color: ;
+    background-color: lightblue;
+}
+
+#theboolean-logo{
+    width: 20%;
+    height: 100px;
 }
 
 /* main */
