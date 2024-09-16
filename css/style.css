@@ -4,34 +4,76 @@ body {
     padding: 0;
 }
 
-figure{
+figure {
     margin: 0;
 }
-/* header */
 
-#upper-bar{
-    background-image: url('..//img/pattern.png');
-    background-repeat: repeat-x;
-    background-size: 630px 190px;
-    background-color: lightblue;
-    height: 100px;
+h1 {
+    padding: 0;
+    margin: 0;
 }
 
-#theboolean-logo{
-    width: 15%;
-    height: 50px;
-    margin-top: 25px;
+p {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 181, 253);
+}
+
+/* header */
+
+#upper-bar {
+    background-image: url('..//img/pattern.png');
+    background-repeat: repeat-x;
+    background-color: #51a0fd;
+    height: 170px;
+    background-position: top;
+}
+
+#theboolean-logo {
+    width: 400px;
+    height: 70px;
+    margin-top: 80px;
+    margin-left: -55px;
+}
+
+#page-title-container{
     margin-left: 10px;
+    width: 70%;
+    padding-top: 25px;
+    margin-bottom: 25px;
+}
+
+#page-title {
+    font-size: 50px;
+    line-height: 50px;
+    margin-bottom: 10px;
+}
+
+#subtitle {
+    padding: 1px;
+    color: grey;
+    font-size: 22px;
+    font: weight 550px;;
+}
+
+#subtitle-date {
+    font-size: 15px;
+    color: grey;
 }
 
 #tim-images-container {
     margin-left: 10px;
 }
 
-#tim-images{
-    width: 900px;
-    height: 600px;
+#tim-images {
+    width: 800px;
+    height: 500px;
 }
+
 /* main */
 
 /* footer */
